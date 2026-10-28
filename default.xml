@@ -5,7 +5,7 @@
   <project name="toanphan2k/riscv-32im" path="riscv-32im" remote="github" revision="main" />
   <project name="riscv-collab/riscv-gnu-toolchain" path="riscv-gnu-toolchain" remote="github" revision="master" />
   <project name="riscv-software-src/riscv-tests" path="riscv-tests" remote="github" revision="master" />
-  <project name="toanphan2k/riscv_tools" path="riscv_tools" remote="github" revision="main">
+  <project name="toanphan2k/riscv-tools" path="riscv-tools" remote="github" revision="main">
     <linkfile src="docker/tools/run_docker.sh" dest="run_docker.sh" />
     <linkfile src="docker/tools/build_docker.sh" dest="build_docker.sh" />
   </project>
